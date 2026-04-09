@@ -5,7 +5,7 @@
 // @grant GM_xmlhttpRequest
 // @connect media1.tenor.com
 // @author hyzaaar
-// @description X blocker for Twitter/X
+// @description Miku X blocker for Twitter/X
 // ==/UserScript==
 // 裏側のX（Twitter）のスクロールを禁止して操作できなくする
 document.body.style.overflow = "hidden";
