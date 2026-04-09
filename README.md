@@ -8,7 +8,7 @@ Miku will ask you to play games with her instead of scrolling! 🎮
 
 ## How to use
 1. Install [Tampermonkey](https://www.tampermonkey.net/) on your browser
-2. Click [here](x-blocker.user.js) to install the script
+2. Click [here](miku-x-blocker.user.js) to install the script
 3. Visit X (Twitter) and Miku will appear! 🎵
 
 ## Requirements
