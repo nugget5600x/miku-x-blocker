@@ -1,7 +1,7 @@
 # Miku X-Blocker 🎵
 
 No need to feel bad about scrolling Twitter! Miku's got your back!!
-![screenshot](タイトルなし.png)
+![screenshot](Animation.gif)
 ## What is this?
 A Tampermonkey userscript that blocks X (Twitter) with a Hatsune Miku overlay.
 Miku will ask you to play games with her instead of scrolling! 🎮
